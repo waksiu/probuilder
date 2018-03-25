@@ -33,12 +33,6 @@ html {
 body {
   font-size: 0.8125rem; }
 
-ul, li, h1, .span-1 {
-  color: #ef9b01;}
-
-.lnr {
-  color: #ef9b01;}
-
 .tlt {
   margin-left: 2rem;
   margin-right: 2rem; }
@@ -355,17 +349,6 @@ section#team .inner {
 .animate-numbers {
   height: auto; }
 
-.anim-numbers p {
-  font-weight: 700;
-  letter-spacing: 0.13em;
-  text-transform: uppercase;
-  text-align: center;
-}
-
-.anim-numbers{
-  font-size: 1em !important;
-}
-
 .number {
   text-align: center;
   font-weight: 100;
@@ -380,10 +363,10 @@ section#team .inner {
 
 .number p {
   font-family: Raleway;
-  font-weight: 700;
+  font-weight: 300;
   font-size: 1em;
   text-transform: uppercase;
-  letter-spacing: 0.05rem;
+  letter-spacing: 0.2rem;
   margin: -1rem auto 1.5rem; }
 
 .count {
@@ -524,7 +507,7 @@ ul.count-down li p {
   color: #fff; }
 
 .progress-bar {
-  background-color: #ef9b01;
+  background-color: #b3b2b9;
   box-shadow: none !important; }
 
 .progress-animation-start {
@@ -668,14 +651,14 @@ a:hover figcaption {
       margin-bottom: 0rem; } }
 
 .contact-background {
-  background-image: url("../images/background2.jpg"); }
+  background-image: url("../images/background1.jpg"); }
 
 .contact-us {
   text-align: center;
   color: #fff; }
 
 .contact .contact-btn {
-  color: #ef9b01;
+  color: #fff;
   background-color: transparent;
   border: 1px solid #fff;
   font-weight: 100;
@@ -684,7 +667,7 @@ a:hover figcaption {
   text-transform: uppercase; }
 
 .contact .contact-btn:hover {
-  color: #ef9b01;
+  color: #313131;
   background-color: #fff;
   border: solid 2px #fff; }
 
@@ -742,12 +725,12 @@ hr {
   margin-right: 0.4rem; }
 
 .contact-icons-content {
-  display: table-cell;
+  display: flex;
   align-items: center;
   margin: 0 auto;
   text-align: left;
   height: 3rem;
-  /*width: 100%;*/
+  width: 100%;
   vertical-align: middle; }
 
 .contact-icons-text {
@@ -778,10 +761,6 @@ hr {
   padding: 0;
   display: table; }
 
-.navbar-brand span {
-  font-weight: 700;
-}
-
 .navbar-brand img {
   height: 2.5rem;
   display: table-cell; }
@@ -794,7 +773,7 @@ hr {
   text-transform: uppercase;
   font-size: 1rem;
   font-family: Raleway;
-  font-weight: 100;
+  font-weight: 300;
   text-indent: 0.1rem;
   letter-spacing: 0.05rem; }
 
@@ -958,7 +937,7 @@ blockquote footer, blockquote small, blockquote .small {
   color: #fff;
   text-align: center;
   margin-top: 1rem;
-  font-weight: 700;
+  font-weight: 300;
   font-size: 0.9em;
   letter-spacing: 5px;
   text-transform: uppercase;
@@ -1120,28 +1099,31 @@ blockquote footer, blockquote small, blockquote .small {
   z-index: -1000; }
 
 .youtube-overflow {
-  top: 30vmin;
   z-index: 500;
-  text-align: center; }
-
-.youtube-overflow .tlt {
+  text-align: center;
+  top: 0;
+  left: 0;
   position: absolute;
+  height: 100%; }
+
+.youtube-overflow-table {
+  display: table;
+  height: 100%;
+  width: 100%; }
+
+.youtube-overflow-table-cell {
+  display: table-cell;
+  vertical-align: middle;
+  margin: auto;
   font-size: 2vmax;
   letter-spacing: 1.5vw;
-  top: 50%;
-  left: 50%;
-  width: 80%;
+  width: 100%;
   z-index: 3;
   color: #fff;
   text-align: center;
   text-transform: uppercase;
   font-weight: 100;
-  text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.75);
-  -webkit-transform: translate3d(-50%, -50%, 0);
-  -moz-transform: translate3d(-50%, -50%, 0);
-  -ms-transform: translate3d(-50%, -50%, 0);
-  -o-transform: translate3d(-50%, -50%, 0);
-  transform: translate3d(-50%, -50%, 0); }
+  text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.75); }
 
 .youtube-gallery {
   width: auto;
