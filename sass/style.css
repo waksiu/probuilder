@@ -33,6 +33,9 @@ html {
 body {
   font-size: 0.8125rem; }
 
+.span-1 {
+  color: #ef9b01; }
+
 .tlt {
   margin-left: 2rem;
   margin-right: 2rem; }
