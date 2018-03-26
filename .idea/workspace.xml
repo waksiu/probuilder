@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5ab9c89-d559-4ba1-9060-d937c88d5bf0" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/images/brands/light/1.png" afterPath="$PROJECT_DIR$/images/brands/light/1.png" />
-      <change beforePath="$PROJECT_DIR$/images/brands/light/2.png" afterPath="$PROJECT_DIR$/images/brands/light/2.png" />
-      <change beforePath="$PROJECT_DIR$/images/brands/light/3.png" afterPath="$PROJECT_DIR$/images/brands/light/3.png" />
-      <change beforePath="$PROJECT_DIR$/images/brands/light/4.png" afterPath="$PROJECT_DIR$/images/brands/light/4.png" />
-      <change beforePath="$PROJECT_DIR$/images/brands/light/5.png" afterPath="$PROJECT_DIR$/images/brands/light/5.png" />
-      <change beforePath="$PROJECT_DIR$/images/brands/light/6.png" afterPath="$PROJECT_DIR$/images/brands/light/6.png" />
-      <change beforePath="$PROJECT_DIR$/sass/style.css" afterPath="$PROJECT_DIR$/sass/style.css" />
-      <change beforePath="$PROJECT_DIR$/sass/style.css.map" afterPath="$PROJECT_DIR$/sass/style.css.map" />
-      <change beforePath="$PROJECT_DIR$/sass/style.sass" afterPath="$PROJECT_DIR$/sass/style.sass" />
     </list>
     <ignored path="probuilder.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,7 +29,7 @@
           <file leaf-file-name="static.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/static.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="578">
+                <state relative-caret-position="680">
                   <caret line="118" column="26" lean-forward="true" selection-start-line="118" selection-start-column="26" selection-end-line="118" selection-end-column="26" />
                   <folding />
                 </state>
@@ -269,7 +258,7 @@
       <option name="presentableId" value="Default" />
       <updated>1522010437788</updated>
       <workItem from="1522010439885" duration="1127000" />
-      <workItem from="1522084057353" duration="2455000" />
+      <workItem from="1522084057353" duration="3249000" />
     </task>
     <task id="LOCAL-00001" summary="new logos">
       <created>1522088485683</created>
@@ -278,11 +267,18 @@
       <option name="project" value="LOCAL" />
       <updated>1522088485683</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="new logos">
+      <created>1522090366290</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1522090366290</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3582000" />
+    <option name="totallyTimeSpent" value="4376000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -389,7 +385,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/static.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
+        <state relative-caret-position="680">
           <caret line="118" column="26" lean-forward="true" selection-start-line="118" selection-start-column="26" selection-end-line="118" selection-end-column="26" />
           <folding />
         </state>
