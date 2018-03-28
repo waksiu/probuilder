@@ -421,7 +421,7 @@ body{
 /*---------------------------------------------------------------*/
 
 .plans-background{
-    background-image: url("../images/background1.jpg");/* path to your background image -pricing */
+    background-image: url("../images/background2.jpg");/* path to your background image -pricing */
 }
 
 .plans-pricing h2 {
@@ -447,7 +447,7 @@ body{
 .btn-plans1 {
     border: 1px solid #fff;
     margin: 0 auto;
-    color: #fff;
+    color: #ef9b01;
     font-weight: 100;
 }
 

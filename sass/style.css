@@ -36,6 +36,12 @@ body {
 .span-1 {
   color: #ef9b01; }
 
+.lnr {
+  color: #ef9b01; }
+
+ul, li, h1, .span-1 {
+  color: #ef9b01; }
+
 .tlt {
   margin-left: 2rem;
   margin-right: 2rem; }
@@ -161,6 +167,9 @@ section#team .inner {
 
 .logo-brand {
   border-top: 1px solid #ced4da; }
+
+.navbar-brand .logo span {
+  font-weight: 700; }
 
 .logo-brand-space {
   padding: 5rem 1rem; }
@@ -364,12 +373,14 @@ section#team .inner {
 .number span {
   font-size: 3rem; }
 
+.anim-numbers {
+  font-size: 1em !important; }
+
 .number p {
   font-family: Raleway;
-  font-weight: 300;
-  font-size: 1em;
-  text-transform: uppercase;
-  letter-spacing: 0.2rem;
+  font-weight: 700;
+  text-transform: capitalize;
+  letter-spacing: 0.1rem;
   margin: -1rem auto 1.5rem; }
 
 .count {
@@ -510,7 +521,7 @@ ul.count-down li p {
   color: #fff; }
 
 .progress-bar {
-  background-color: #b3b2b9;
+  background-color: #ef9b01;
   box-shadow: none !important; }
 
 .progress-animation-start {
@@ -654,7 +665,7 @@ a:hover figcaption {
       margin-bottom: 0rem; } }
 
 .contact-background {
-  background-image: url("../images/background1.jpg"); }
+  background-image: url("../images/background2.jpg"); }
 
 .contact-us {
   text-align: center;
@@ -940,7 +951,7 @@ blockquote footer, blockquote small, blockquote .small {
   color: #fff;
   text-align: center;
   margin-top: 1rem;
-  font-weight: 300;
+  font-weight: 700;
   font-size: 0.9em;
   letter-spacing: 5px;
   text-transform: uppercase;
